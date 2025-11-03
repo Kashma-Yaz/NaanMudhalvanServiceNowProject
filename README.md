@@ -2,7 +2,7 @@
 
 ## Naan Mudhalvan Project
 
-This project was developed as part of the *Naan Mudhalvan Program, demonstrating innovative use of the **ServiceNow ITSM Platform* to build a *Family Expense Management System*.  
+This project was developed as part of the *Naan Mudhalvan Program, demonstrating innovative use of the **ServiceNow Platform* to build a *Family Expense Management System*.  
 The system automates expense tracking and reporting — showcasing how an enterprise IT platform can be adapted for real-life household management.
 
 ## Project Demonstration
@@ -44,7 +44,7 @@ It enables users to record, categorize, and analyze expenses efficiently, offeri
 
 ## 📈 Outcome
 
-This project illustrates how *ServiceNow ITSM capabilities* can be repurposed beyond traditional IT workflows — delivering a smart, efficient, and accessible *family expense management system*.  
+This project illustrates how *ServiceNow ITSM capabilities* can be repurposed beyond traditional IT workflows delivering a smart, efficient, and accessible *family expense management system*.  
 It enhances accuracy, reduces manual tracking, and supports better financial decisions.
 
 ---
