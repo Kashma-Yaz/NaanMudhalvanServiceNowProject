@@ -42,7 +42,7 @@ It enables users to record, categorize, and analyze expenses efficiently, offeri
 - *Modules:* Family Expenses, Daily Expenses  
 - *Features Used:* Tables, Business Rules, Related Lists, Form Design, Workflow Configuration  
 
-## 📈 Outcome
+## Outcome
 
 This project illustrates how *ServiceNow ITSM capabilities* can be repurposed beyond traditional IT workflows delivering a smart, efficient, and accessible *family expense management system*.  
 It enhances accuracy, reduces manual tracking, and supports better financial decisions.
